@@ -1,0 +1,8 @@
+Collecting onnx
+  Downloading onnx-1.14.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (14.6 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 14.6/14.6 MB 82.7 MB/s eta 0:00:00
+Requirement already satisfied: numpy in /usr/local/lib/python3.10/dist-packages (from onnx) (1.23.5)
+Requirement already satisfied: protobuf>=3.20.2 in /usr/local/lib/python3.10/dist-packages (from onnx) (3.20.3)
+Requirement already satisfied: typing-extensions>=3.6.2.1 in /usr/local/lib/python3.10/dist-packages (from onnx) (4.7.1)
+Installing collected packages: onnx
+Successfully installed onnx-1.14.1
