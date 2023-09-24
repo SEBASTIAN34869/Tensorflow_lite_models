@@ -1,0 +1,9 @@
+The following file contains YoloV7 model and its configuration files:
+
+The files are needed for yolov7 transfer learning in custom model as well as standard 80 class detection.
+The current file however used for custom model training and only has class upto 1.
+
+However with some minute changes in the configuration classes files and dataset location, this project can used to train any detection model with suitable GPU.
+
+The primarily used of yolov7 model I used with Google Colab with Tesla T4 GPU .
+
